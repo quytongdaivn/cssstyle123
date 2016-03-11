@@ -1,3 +1,4 @@
+<link href='http://googledrive.com/host/0B-UFNCskEl7QaXdCYXJXU1owWTg' rel='stylesheet' type='text/css'/>
 function removeHtmlTag(strx,chop){ 
     if(strx.indexOf("<")!=-1)
     {
